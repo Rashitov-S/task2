@@ -6,7 +6,7 @@ from PyQt6.QtCore import Qt, QPoint
 from PyQt6.QtGui import QPainter, QColor
 from PyQt6.QtWidgets import QWidget, QApplication
 
-
+print("любая строчка")
 class Suprematism(QWidget):
     def __init__(self):
         super().__init__()
