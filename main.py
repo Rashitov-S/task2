@@ -52,7 +52,7 @@ class Suprematism(QWidget):
             self.qp.drawPolygon(coords)
 
     def initUI(self):
-        self.setGeometry(300, 300, 1000, 1000)
+        self.setGeometry(300, 300, 900, 900)
         self.setWindowTitle('Рисование')
 
     def mousePressEvent(self, event):
