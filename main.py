@@ -79,3 +79,5 @@ if __name__ == '__main__':
     sys.exit(app.exec_())
 
 #by Sultan Rashitov 2024
+
+print("привет, пользователи!")
